@@ -1,0 +1,3 @@
+psycopg
+dj_databse_url
+gunicorn
